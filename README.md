@@ -44,4 +44,4 @@ get too far out of sync with the server it will stop accepting your codes.
 ```
 
 Export the duo hotp secret as a QR code for inclusion in third-party hotp apps
-like freeotp.
+like freeotp 
